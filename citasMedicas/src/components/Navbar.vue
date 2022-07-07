@@ -35,8 +35,6 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <router-link class="dropdown-item" to="/citapaciente">Cita de Pacientes</router-link>
-                        <router-link class="dropdown-item" to="#">Another action</router-link>
-                        <router-link class="dropdown-item" to="#">Something else here</router-link>
                     </div>
                 </li>
             </ul>
