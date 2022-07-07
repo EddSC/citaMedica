@@ -4,8 +4,8 @@ import Formulario from '@/components/Formulario.vue';
 
 <template>
   <main>
-    <div class=" text-center">
-      <img src="/public/image/1012962-banner.jpg" alt="">
+    <div class=" text-center w-100vh">
+      <img src="/public/image/fond.jpeg" alt="">
     </div>
     <!-- <Formulario/> -->
   </main>

@@ -4,7 +4,9 @@
 
 <template>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-        <router-link class="navbar-brand" to="/">Citas Medicas</router-link>
+        <router-link class="navbar-brand" to="/">
+            <img  style="height: 40px;" src="/public/image/logo.jpeg" alt="">
+        </router-link>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
