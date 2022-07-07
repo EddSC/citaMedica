@@ -4,8 +4,8 @@ import Formulario from '@/components/Formulario.vue';
 
 <template>
   <main>
-    <div class=" text-center w-100vh">
-      <img src="/public/image/fond.jpeg" alt="">
+    <div class="container-fluid text-center">
+      <img class="img-fluid" src="/public/image/doctores.jpg" alt="">
     </div>
     <!-- <Formulario/> -->
   </main>
